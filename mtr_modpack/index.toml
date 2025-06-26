@@ -17,6 +17,10 @@ file = "mods/FarmersDelight-1.20.1-2.1.6+refabricated.jar"
 hash = "39a1cb413075e8e33c73849dd68ef2b58f8dfdd4e55adcdc9f13419dce81e6dc"
 
 [[files]]
+file = "mods/Farmersrespite-Fabric-3.0.2.jar"
+hash = "6bc6a60d18db20428fa0500f9c6d94d91cfb04a77a154d0b18f8fa53b39588ae"
+
+[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.3.3+1.20.4.jar"
 hash = "095105939d690664a8f5411ffbf54e7eeaa064f574963395c30e076468a44ccb"
 
@@ -57,6 +61,10 @@ file = "mods/Xaeros_Minimap_25.2.0_Fabric_1.20(1).jar"
 hash = "ee5580ace317e6cce7a102cd3c3f6b25d53fe0f57aa8857eacecaa9b277246cf"
 
 [[files]]
+file = "mods/brewinandchewin-3.0.6+1.20.1.jar"
+hash = "98d700ae6261cc07d234ae9348abb0adca302c5682ebc71944f3b6ac429b482b"
+
+[[files]]
 file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
 hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
 
@@ -65,12 +73,20 @@ file = "mods/continuity-3.0.0+1.20.1.jar"
 hash = "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3"
 
 [[files]]
+file = "mods/corndelight-1.21-1.0.0.jar"
+hash = "32e22f7f8abe7abcd74bc478d5a7b52f66f7bb2f6d28986af906586791331da4"
+
+[[files]]
 file = "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
 hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"
 
 [[files]]
 file = "mods/cullleaves-fabric-3.2.0.jar"
 hash = "b85953d3c2de70f0fbd4cddf57f9c0861a9bd409077ce6e01da817f6e7584177"
+
+[[files]]
+file = "mods/cultural-delights-fabric-1.0.5+1.20.1.jar"
+hash = "1ac651b63dec9218af57bbe05ef6e6ebafeeb897bfe98d0caeb5e7868e37e5a0"
 
 [[files]]
 file = "mods/enhancedblockentities-0.9+1.20.jar"
@@ -123,6 +139,10 @@ hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 [[files]]
 file = "mods/music_player-fabric-1.20.1-2.7.0.316.jar"
 hash = "60a1bbf88482bb099721fa8d9424ad310c4af72a1a0a0ca7d7dc8f76ce6405b6"
+
+[[files]]
+file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.21.jar"
+hash = "9cc69ecc65c3628152d1a00b4adffa4e1b8dea9887c965629ae1adaa97d517d1"
 
 [[files]]
 file = "mods/resolution-control-plus-1.20-3.0.0.jar"
