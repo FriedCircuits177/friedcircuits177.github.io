@@ -73,8 +73,8 @@ file = "mods/continuity-3.0.0+1.20.1.jar"
 hash = "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3"
 
 [[files]]
-file = "mods/corndelight-1.21-1.0.0.jar"
-hash = "32e22f7f8abe7abcd74bc478d5a7b52f66f7bb2f6d28986af906586791331da4"
+file = "mods/corndelight-1.20.1-1.1.4.jar"
+hash = "158498116f1bad39de974c0a4b7170b0ee4a8de4f000158ab82002ee8fba3b9c"
 
 [[files]]
 file = "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
@@ -141,8 +141,8 @@ file = "mods/music_player-fabric-1.20.1-2.7.0.316.jar"
 hash = "60a1bbf88482bb099721fa8d9424ad310c4af72a1a0a0ca7d7dc8f76ce6405b6"
 
 [[files]]
-file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.21.jar"
-hash = "9cc69ecc65c3628152d1a00b4adffa4e1b8dea9887c965629ae1adaa97d517d1"
+file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+hash = "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754"
 
 [[files]]
 file = "mods/resolution-control-plus-1.20-3.0.0.jar"
