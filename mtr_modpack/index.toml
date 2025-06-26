@@ -61,6 +61,10 @@ file = "mods/Xaeros_Minimap_25.2.0_Fabric_1.20(1).jar"
 hash = "ee5580ace317e6cce7a102cd3c3f6b25d53fe0f57aa8857eacecaa9b277246cf"
 
 [[files]]
+file = "mods/airstrike_mod_fabric-1.0.0.jar"
+hash = "ca34768a45245e6d022f9dd5a7547d26b67776281354b2e994f442661a30a7db"
+
+[[files]]
 file = "mods/brewinandchewin-3.0.6+1.20.1.jar"
 hash = "98d700ae6261cc07d234ae9348abb0adca302c5682ebc71944f3b6ac429b482b"
 
