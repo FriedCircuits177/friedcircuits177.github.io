@@ -49,6 +49,10 @@ file = "mods/MTR-fabric-4.0.0-prerelease.2+1.20.1.jar"
 hash = "e498d6f5662e45b1db4390b8c1fd7edc02aa82eb43237586faea0591dabf7c32"
 
 [[files]]
+file = "mods/Rocket-Launcher-Mod-Fabric-1.20.4.jar"
+hash = "b347e0292d307f8ad2646c1d7a4a935a92c59362a3b57e8ff2e0ede89c21a9b6"
+
+[[files]]
 file = "mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
 hash = "774ecae8c258a86c7dc69b290945a8a01a5d8f3315a1caa7e2d8e4c4e299985c"
 
@@ -145,6 +149,10 @@ file = "mods/music_player-fabric-1.20.1-2.7.0.316.jar"
 hash = "60a1bbf88482bb099721fa8d9424ad310c4af72a1a0a0ca7d7dc8f76ce6405b6"
 
 [[files]]
+file = "mods/mysticsbiomes-fabric-1.20.1-3.4.3.jar"
+hash = "0b4f7a7c8ea4c25ed79fbce30a99cb423d6a3c8c2de4893b6284beb64b35aa93"
+
+[[files]]
 file = "mods/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
 hash = "c87de6e5cd772c65d5f79e8b8fcbe04e6bad0e29b5caffde1141c59e9fde2754"
 
@@ -169,8 +177,16 @@ file = "mods/templates-2.1.1+1.20.1.jar"
 hash = "496534e85938d222fccf05defe89b833d1ab7fe4a81aaafb39951f1f7a0045dd"
 
 [[files]]
+file = "mods/trafficcraft-fabric-1.20.1-1.1.3.jar"
+hash = "dfc2e9aaf9f81a3e4bc0c340c9df951a5730c3f667cb2bb46344c2cf191e34b2"
+
+[[files]]
 file = "mods/u_team_core-fabric-1.20.1-5.1.4.346.jar"
 hash = "9661087b7fccbaa227334a67a5c771acdd9b9269660007122f470dd3e035db8f"
+
+[[files]]
+file = "mods/wildlife-1.20.1-2.2.jar"
+hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
 
 [[files]]
 file = "mods/worldedit-mod-7.2.15.jar"
