@@ -53,6 +53,10 @@ file = "mods/Patchouli-1.20.1-81-FABRIC.jar"
 hash = "80271bc401f716ada590047755cf5b455e97417e61e1fbf1ba94ccb45f0015b3"
 
 [[files]]
+file = "mods/Platform-fabric-1.20.1-1.2.10.1.jar"
+hash = "6979467caa916c7458b3b5bf6c32e062378575ec9b1d1ce7b9d8480703fa51a8"
+
+[[files]]
 file = "mods/Rocket-Launcher-Mod-Fabric-1.20.4.jar"
 hash = "b347e0292d307f8ad2646c1d7a4a935a92c59362a3b57e8ff2e0ede89c21a9b6"
 
