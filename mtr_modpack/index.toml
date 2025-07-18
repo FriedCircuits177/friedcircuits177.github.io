@@ -85,6 +85,10 @@ file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
 hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
 
 [[files]]
+file = "mods/chefs-delight-1.0.3-fabric-1.20.1.jar"
+hash = "c77994b4fc91aa416b5bea8a7c42e9b006803c9fe1d022e8c036fcf1b29d8331"
+
+[[files]]
 file = "mods/continuity-3.0.0+1.20.1.jar"
 hash = "fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3"
 
@@ -195,6 +199,10 @@ hash = "dfc2e9aaf9f81a3e4bc0c340c9df951a5730c3f667cb2bb46344c2cf191e34b2"
 [[files]]
 file = "mods/u_team_core-fabric-1.20.1-5.1.4.346.jar"
 hash = "9661087b7fccbaa227334a67a5c771acdd9b9269660007122f470dd3e035db8f"
+
+[[files]]
+file = "mods/vanillabackport-fabric-1.20.1-1.1.4.3.jar"
+hash = "b8a87f1be6ffb62bc8a1c948498112ffdc1ddaa6fc1eda8b6167a0353de62809"
 
 [[files]]
 file = "mods/wildlife-1.20.1-2.2.jar"
