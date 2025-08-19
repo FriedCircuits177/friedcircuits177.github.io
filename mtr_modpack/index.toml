@@ -157,6 +157,10 @@ file = "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
 hash = "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9"
 
 [[files]]
+file = "mods/minecraft-comes-alive-7.6.11+1.20.1-universal.jar"
+hash = "b25cbe2eac216b15ff16c943b512b297e1f054f902771e829a7c51386106dec6"
+
+[[files]]
 file = "mods/modernfix-fabric-5.20.0+mc1.20.1.jar"
 hash = "fb33b0a523e302e658bfe005c5ba1c765cd33f37e45f54880e8dce291b1954a7"
 
