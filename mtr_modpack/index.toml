@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
-[[files]]
-file = ".pack.toml.un~"
-hash = "886200bf1340f67d10bc4119763917afbe9f8916179470f293782a91b705c1b6"
+
+
+
 
 [[files]]
 file = "mods/CustomNPCs-Unofficial-Fabric-1.20.1.20240901.jar"
@@ -224,9 +224,9 @@ hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
 file = "mods/worldedit-mod-7.2.15.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
 
-[[files]]
-file = "pack.toml~"
-hash = "6f29ef5c8e2588a32092f7bb6b9bf45d3c9f718017b1774138b8f9ac5d0f498c"
+
+
+
 
 [[files]]
 file = "resourcepacks/MTRPackLDM.zip"
