@@ -1,9 +1,5 @@
 hash-format = "sha256"
 
-
-
-
-
 [[files]]
 file = "mods/CustomNPCs-Unofficial-Fabric-1.20.1.20240901.jar"
 hash = "f31eeae426a19f297ac6062aefbb1932be111cf60d78b17eaf533043cd9fb8cb"
@@ -223,10 +219,6 @@ hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
 [[files]]
 file = "mods/worldedit-mod-7.2.15.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
-
-
-
-
 
 [[files]]
 file = "resourcepacks/MTRPackLDM.zip"
