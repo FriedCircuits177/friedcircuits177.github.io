@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".index.toml.un~"
-hash = "992188d84003d26d472693c1ac88045722ac0e9260558f989133e8b1e5098fa0"
-
-[[files]]
-file = "index.toml~"
-hash = "873dc32156de568a10703c2e747c1bb507b0e2ef5c556471448ab1d2364a1f99"
-
-[[files]]
 file = "mods/CopperandTuffBackport-1.2.jar"
 hash = "a03163616eeafcac5a51c5aa1c79285fe0b87ad0b84b2d90d7ca4dbeeea9dc7e"
 
