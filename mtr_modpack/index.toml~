@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".index.toml.un~"
-hash = "992188d84003d26d472693c1ac88045722ac0e9260558f989133e8b1e5098fa0"
-
-[[files]]
-file = "index.toml~"
-hash = "873dc32156de568a10703c2e747c1bb507b0e2ef5c556471448ab1d2364a1f99"
-
-[[files]]
-file = "mods/CopperandTuffBackport-1.2.jar"
-hash = "a03163616eeafcac5a51c5aa1c79285fe0b87ad0b84b2d90d7ca4dbeeea9dc7e"
+file = ".pack.toml.un~"
+hash = "886200bf1340f67d10bc4119763917afbe9f8916179470f293782a91b705c1b6"
 
 [[files]]
 file = "mods/CustomNPCs-Unofficial-Fabric-1.20.1.20240901.jar"
@@ -231,6 +223,10 @@ hash = "1bd5af612b5370626fbc645629c4c630d08c162a2301136f1304b5681f9b2092"
 [[files]]
 file = "mods/worldedit-mod-7.2.15.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "pack.toml~"
+hash = "6f29ef5c8e2588a32092f7bb6b9bf45d3c9f718017b1774138b8f9ac5d0f498c"
 
 [[files]]
 file = "resourcepacks/MTRPackLDM.zip"
