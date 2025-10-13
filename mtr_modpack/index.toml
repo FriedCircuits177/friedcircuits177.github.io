@@ -85,6 +85,10 @@ file = "mods/airstrike_mod_fabric-1.0.0.jar"
 hash = "ca34768a45245e6d022f9dd5a7547d26b67776281354b2e994f442661a30a7db"
 
 [[files]]
+file = "mods/architectury-9.2.14-fabric.jar"
+hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
+
+[[files]]
 file = "mods/brewinandchewin-3.0.6+1.20.1.jar"
 hash = "98d700ae6261cc07d234ae9348abb0adca302c5682ebc71944f3b6ac429b482b"
 
@@ -107,6 +111,10 @@ hash = "158498116f1bad39de974c0a4b7170b0ee4a8de4f000158ab82002ee8fba3b9c"
 [[files]]
 file = "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar"
 hash = "33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb"
+
+[[files]]
+file = "mods/createmissiles-1.0.1+fabric-1.20.1-build.630.jar"
+hash = "6855888db377611ce0b2c13291239d83a32dcc5642fde8a9333f879b70fe871f"
 
 [[files]]
 file = "mods/cullleaves-fabric-3.2.0.jar"
