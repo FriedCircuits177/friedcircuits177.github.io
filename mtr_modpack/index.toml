@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Axiom-5.2.1-for-MC1.20.1.jar"
+hash = "84acaaaf8b4f172249e365886eb56fcc47b99417e4bf11bcbe0e9722af1f3d04"
+
+[[files]]
 file = "mods/CopperandTuffBackport-1.2.jar"
 hash = "a03163616eeafcac5a51c5aa1c79285fe0b87ad0b84b2d90d7ca4dbeeea9dc7e"
 
