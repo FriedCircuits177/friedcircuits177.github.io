@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "indexs.toml"
-hash = "5ad13e4f2963fb7b3032dda01c3f22e04c7924767c320428db4f608315d401da"
-
-[[files]]
 file = "mods/Axiom-5.2.1-for-MC1.20.1.jar"
 hash = "84acaaaf8b4f172249e365886eb56fcc47b99417e4bf11bcbe0e9722af1f3d04"
 
