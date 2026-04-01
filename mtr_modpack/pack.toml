@@ -1,12 +1,12 @@
 name = "InterSec MTR Modpack"
 author = "FriedCircuits177"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "595513ec94af4881f72fc9009f24e837273436dbe2bf9ac9ec554813f65fd0a3"
+hash = "5ad13e4f2963fb7b3032dda01c3f22e04c7924767c320428db4f608315d401da"
 
 [versions]
 fabric = "0.16.14"
