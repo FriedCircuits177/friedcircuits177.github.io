@@ -13,8 +13,8 @@ file = "mods/CustomNPCs-Unofficial-Fabric-1.20.1.20240901.jar"
 hash = "f31eeae426a19f297ac6062aefbb1932be111cf60d78b17eaf533043cd9fb8cb"
 
 [[files]]
-file = "mods/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar"
-hash = "f282957cb0112f4cf2ce0feb0ecac73d388fab2896b8d11c53d724f4d728d863"
+file = "mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
+hash = "e29c5d6a47ce40ec174f96104ac3639605de30e3811b39907de7070feb230cc2"
 
 [[files]]
 file = "mods/FILTERSAPI-FABRIC-1.0.0+1.20.1.jar"
@@ -171,6 +171,10 @@ hash = "ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85"
 [[files]]
 file = "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
 hash = "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9"
+
+[[files]]
+file = "mods/malilib-fabric-1.20.1-0.16.3.jar"
+hash = "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589"
 
 [[files]]
 file = "mods/minecraft-comes-alive-7.6.11+1.20.1-universal.jar"
