@@ -37,6 +37,10 @@ file = "mods/JCM-2.0.0-prerelease.1+1.20.1.jar"
 hash = "f41b213a018aecefaca20e6a4dd4cff7d52bac80841fb0810edcefe4bbf691cd"
 
 [[files]]
+file = "mods/MAGIC-1.1.0-1.20.1.jar"
+hash = "6c429db60b0ceef3761aa728ffdc92c457afb29fd45e9b40f0aa62b9d563f37d"
+
+[[files]]
 file = "mods/MSD-fabric-1.20.1-4.0.2-1.4.2.jar"
 hash = "79131a8147efdfe2d60b528f96a3115c00549cbe65be6854538b5767c7d655a7"
 
